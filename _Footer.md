@@ -1,1 +1,1 @@
-footer
+Please do not edit manually the Wiki.
